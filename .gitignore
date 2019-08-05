@@ -39,3 +39,4 @@ testem.log
 Thumbs.db
 
 node_module/
+Image-Uploader-Backend/node_modules/
